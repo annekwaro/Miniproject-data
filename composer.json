@@ -1,0 +1,9 @@
+{
+    "name": "annekwaro/miniproject-data-1",
+    "autoload": {
+        "psr-4": {
+            "Annekwaro\\MiniprojectData1\\": "src/"
+        }
+    },
+    "require": {}
+}
